@@ -28,21 +28,6 @@ Using the "Elbow Method" to identify that there were two significant clusters wi
   
   This larger cluster makes less frequent and lower-value purchases but presents potential for upselling and engagement.  There were roughly 11x more customers in this segment than Cluster 1, so there are likely many opportunities to convert these customers into Cluster
 
-Findings
-Cluster 1: Frequent Buyers
-
-Total Revenue: $100,000
-Median Frequency: 1971 purchases
-AOV: $55.38
-This cluster, though smaller in size, contributes significantly to the total revenue with frequent and high-value purchases. These customers are likely very loyal to the brand.
-
-Cluster 0: Casual Shoppers
-
-Total Revenue: $645.81
-Median Frequency: 41.5 purchases
-AOV: $16.90
-This larger cluster makes less frequent and lower-value purchases. However, it presents a substantial opportunity for upselling and engagement, given its size.
-
 ## Recommendations
 
 1) Enhance Loyalty Programs for Frequent Buyers
