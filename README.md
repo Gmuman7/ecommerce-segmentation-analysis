@@ -1,4 +1,4 @@
-# E-commerce Revenue and Customer Segmentation Analysis
+# ML Business Use-Case: Using K-Means for Customer Segmentation Analysis
 
 Customer Segmentation has a ton of upsides for businesses in all industries, giving them deeper insights into their customer bases, and allowing the org to stategically focus efforts within the customer segments.  Modern advances in machine learning and computer power puts this analysis in the arsenal of every business.  In this project, I used a publicly available dataset as an example of how this analysis would be done.  This project focuses on using a machine learning algorithm (K-means clustering) to split customers into segments based on their purchasing behaviors, with the goal of helping the hypotheical business executive in this scenario build a strategy to generate more return for the business.  
 
