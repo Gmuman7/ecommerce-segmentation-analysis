@@ -1,10 +1,6 @@
 # E-commerce Revenue and Customer Segmentation Analysis
 
-This project focuses on using machine learning (K-means clustering) to segment customers based on their purchasing behaviors, helping businesses identify key revenue drivers and customer patterns. The analysis uses an open-source e-commerce dataset that tracks transactions and customer information.
-
-## Project Overview
-
-The goal of this project is to analyze customer data and identify distinct segments that can help drive business insights. By clustering customers based on their Total Revenue, Frequency of Purchases, and Average Order Value (AOV), we were able to uncover valuable patterns that can inform customer retention strategies and upselling opportunities.
+Customer Segmentation has a ton of upsides for businesses in all industries, giving them deeper insights into their customer bases, and allowing the org to stategically focus efforts within the customer segments.  Modern advances in machine learning and computer power puts this analysis in the arsenal of every business.  In this project, I used a publicly available dataset as an example of how this analysis would be done.  This project focuses on using a machine learning algorithm (K-means clustering) to split customers into segments based on their purchasing behaviors, with the goal of helping the hypotheical business executive in this scenario build a strategy to generate more return for the business.  
 
 ## Key Metrics
 
