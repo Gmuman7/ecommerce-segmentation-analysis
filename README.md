@@ -21,7 +21,7 @@ The goal of this project is to analyze customer data and identify distinct segme
   
   This small but powerful cluster contributes a large portion of revenue with frequent, high-value purchases.
 
-- **Cluster 2: Casual Shoppers**
+- **Cluster 0: Casual Shoppers**
   - Total Revenue: $645.81
   - Median Frequency: 41.5 purchases
   - AOV: $16.90
