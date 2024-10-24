@@ -4,25 +4,29 @@ Customer Segmentation has a ton of upsides for businesses in all industries, giv
 
 ## Key Metrics
 
+While the key matrics below are elementary in nature, the goal of this project is to model the process behind the analysis.  Given this is an exercise, one can only analyze so much without additional context.
+
 - **Total Revenue**: The total amount a customer has spent.
 - **Frequency**: The number of purchases made by each customer.
 - **Average Order Value (AOV)**: The average value of each order.
 
 ## Findings
 
+Using the "Elbow Method" to identify that there were two significant clusters within the data, I was able to identify the metrics that set the customer sets apart:
+
 - **Cluster 1: Frequent Buyers**
   - Total Revenue: $100,000
   - Median Frequency: 1971 purchases
   - AOV: $55.38
   
-  This small but powerful cluster contributes a large portion of revenue with frequent, high-value purchases.
+  This small but powerful cluster contributes a large portion of revenue with frequent, high-value purchases.  Given their very high purchase frequencies, they are likely fiercely loyal to this brand.
 
 - **Cluster 0: Casual Shoppers**
   - Total Revenue: $645.81
   - Median Frequency: 41.5 purchases
   - AOV: $16.90
   
-  This larger cluster makes less frequent and lower-value purchases but presents potential for upselling and engagement.
+  This larger cluster makes less frequent and lower-value purchases but presents potential for upselling and engagement.  There were roughly 11x more customers in this segment than Cluster 1, so there are likely many opportunities to convert these customers into Cluster
 
 ## Dataset
 
