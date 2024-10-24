@@ -31,7 +31,7 @@ Using the "Elbow Method" to identify that there were two significant clusters wi
 ## Recommendations
 
 1) Enhance Loyalty Programs for Frequent Buyers
-Objective: Retain and reward loyalty.
+Objective: Retain and reward loyalty.\
 Actions: Introduce exclusive rewards, early access to new products, and personalized offers to maintain their high engagement and spending levels.
 
 2) Upsell and Cross-Sell to Casual Shoppers
