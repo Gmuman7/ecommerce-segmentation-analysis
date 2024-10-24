@@ -30,7 +30,7 @@ The goal of this project is to analyze customer data and identify distinct segme
 
 ## Dataset
 
-The dataset used in this analysis is publicly available on [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data).
+The dataset used in this analysis is publicly available from [UC-Irvine](https://archive.ics.uci.edu/dataset/352/online+retail).
 
 ## How to Run the Code
 
