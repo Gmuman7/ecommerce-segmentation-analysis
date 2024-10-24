@@ -28,6 +28,46 @@ Using the "Elbow Method" to identify that there were two significant clusters wi
   
   This larger cluster makes less frequent and lower-value purchases but presents potential for upselling and engagement.  There were roughly 11x more customers in this segment than Cluster 1, so there are likely many opportunities to convert these customers into Cluster
 
+Findings
+Cluster 1: Frequent Buyers
+
+Total Revenue: $100,000
+Median Frequency: 1971 purchases
+AOV: $55.38
+This cluster, though smaller in size, contributes significantly to the total revenue with frequent and high-value purchases. These customers are likely very loyal to the brand.
+
+Cluster 0: Casual Shoppers
+
+Total Revenue: $645.81
+Median Frequency: 41.5 purchases
+AOV: $16.90
+This larger cluster makes less frequent and lower-value purchases. However, it presents a substantial opportunity for upselling and engagement, given its size.
+
+## Recommendations
+
+1) Enhance Loyalty Programs for Frequent Buyers
+Objective: Retain and reward loyalty.
+Actions: Introduce exclusive rewards, early access to new products, and personalized offers to maintain their high engagement and spending levels.
+
+2) Upsell and Cross-Sell to Casual Shoppers
+Objective: Increase purchase frequency and order value.
+Actions: Implement targeted marketing campaigns, offer bundle deals, and provide incentives for repeat purchases to encourage higher spending.
+
+3) Personalized Marketing Strategies
+Objective: Tailor communication to each segment.
+Actions: Use data-driven insights to create personalized email campaigns, social media ads, and in-app notifications that resonate with the specific needs and behaviors of each cluster.
+
+4) Customer Feedback and Engagement
+Objective: Understand and address customer needs.
+Actions: Conduct surveys and feedback sessions to gather insights on customer preferences and pain points. Use this information to improve products and services.
+
+5) Monitor and Adjust Strategies
+Objective: Ensure continuous improvement.
+Actions: Regularly review the performance of implemented strategies and make necessary adjustments based on customer behavior and feedback.
+
+Conclusion
+By focusing on enhancing loyalty programs for Frequent Buyers and implementing targeted upselling strategies for Casual Shoppers, the business can maximize revenue and customer satisfaction. Personalized marketing and continuous engagement will further strengthen customer relationships and drive growth.
+
 ## Dataset
 
 The dataset used in this analysis is publicly available on [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data).
